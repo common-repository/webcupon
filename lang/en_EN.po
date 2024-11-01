@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Miguel Angel <miguel@ibermega.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ Web Cupón Admin
+msgid "Opciones Web Cupón API"
+msgstr "Options Web Cupón API"
+
+# @ Web Cupón Admin
+msgid "Es necesario insertar su ID API."
+msgstr "You need to insert your API ID."
+
+# @ Web Cupón Admin
+msgid "Configuración guardada."
+msgstr "Settings saved."
+
+# @ Web Cupón Admin
+msgid "Configuración"
+msgstr "Settings"
+
+# @ Web Cupón Admin
+msgid ""
+"Inserte su código ID API en el siguiente campo para activar su Cupón de "
+"Descuento en WordPress."
+msgstr ""
+"Insert your API ID code in the field below to activate your Discount Coupon "
+"on WordPress."
+
+# @ Web Cupón Admin
+msgid ""
+"Ubique el Widget donde mejor se adapte a su diseño <a href=\"widgets.php"
+"\">Config Widget</a>"
+msgstr ""
+"Place the Widget which best suits your design <a href=\"widgets.php\">Config "
+"Widget</a>"
+
+# @ Web Cupón Admin
+msgid ""
+"¿No tiene un ID API? <a href=\"http://comercial.webcupon.es\">Conseguir uno "
+"ahora</a>"
+msgstr ""
+"Do not have an API ID? <a href=\"http://comercial.webcupon.es\">Get one now</"
+"a>"
+
+# @ Web Cupón Admin
+msgid "¿Qué es Web Cupón?"
+msgstr "What is Web Coupon?"
+
+# @ Web Cupón Admin
+msgid ""
+"Web Cupón, es un servicio de e-Marketing para todo tipo de empresas y poder "
+"ofrecer <strong>Cupones de Descuento ilimitados y gratuitos</strong> a todos "
+"aquellos visitantes de su web que lo soliciten, sin registro y prepagos por "
+"Internet. Su cliente potencial, simplemente, imprime el Cupón en formato PDF "
+"de forma personalizada y acude a su establecimiento para canjearlo por el "
+"descuento que usted previamente ha ofrecido mediante nuestro sistema de "
+"distribución de cupones."
+msgstr ""
+"Web Coupon is an e-Marketing service for all types of businesses and offer "
+"<strong>Discount Coupons Unlimited free</strong> to visitors of your web "
+"request, without registration and prepaid Internet. Your potential customer "
+"simply prints the PDF Coupon personalized way and go to your establishment "
+"to redeem the discount that you previously offered through our voucher."
+
+# @ Web Cupón Admin
+msgid ""
+"Además de aparecer los cupones en su WordPress, también son publicados en "
+"nuestro catálogo oficial en <a href=\"http://www.webcupon.es\">www.webcupon."
+"es</a> donde por medio de intensa campaña en Internet, Radio y/o Televisión "
+"redirigimos a sus clientes potenciales hacia su oferta, que será como "
+"destino, el formulario del Cupón de Descuento ubicado en su propia página "
+"web. También son publicados mediante extensión de Google Chrome para los "
+"usuarios de este explorador."
+msgstr ""
+"Besides appearing in your WordPress coupons are also posted on our official "
+"catalog <a href=\"http://www.webcupon.es\">www.webcupon.es</ a> where "
+"through intense campaign Internet, radio and / or TV redirect your prospects "
+"to your offer, it will be like fate, Discount Coupon form located on their "
+"own website. They are also published by Google Chrome extension for users of "
+"this browser."
+
+# @ Web Cupón Admin
+msgid "¿Cómo funciona?"
+msgstr "How does it work?"
+
+# @ Web Cupón Admin
+msgid ""
+"La mejor forma de ver como funciona nuestro sistema de cupones es con una "
+"promoción gratuita de 15 días al suscribirse mensualmente a nuestro servicio "
+"por solo 40€/mes (impuestos incluidos). Si está utilizando cualquier otro "
+"servicio de promoción de cupones, saque cuentas de cuanto le cuesta al mes "
+"sus ofertas."
+msgstr ""
+"The best way to see how our system works coupons is with a free 15-day "
+"promotion to subscribe monthly to our service for only 40 € / month (tax "
+"included). If you are using any other service coupon promotion, take account "
+"of how much it costs per month offers."
+
+# @ Web Cupón Admin
+msgid ""
+"Al suscribirse, le enviaremos por correo las claves de acceso para que "
+"empiece a publicar su mejor oferta durante 15 días. Si transcurrido el plazo "
+"no desea continuar, podrá cancelar la suscripción con tan solo un clic y sin "
+"coste alguno. Y, por el contrario desea continuar, no tendrá que hacer nada "
+"ya que la entidad PayPal realizará el primer cargo mensual a partir del "
+"quinceavo día. Además, si no tiene página web, le proporcionamos una "
+"mientras dure su suscripción con nosotros. Una página web totalmente "
+"personalizada por usted desde su zona de gestión con el cupón de descuento "
+"ya incluído."
+msgstr ""
+"By subscribing, we will mail you the access codes to start publishing their "
+"best offer for 15 days. If within a period not wish to continue, you can "
+"unsubscribe with just one click and no cost. And, on the contrary you wish "
+"to continue, you will not do anything because the entity PayPal will make "
+"the first monthly charge from the fifteenth day. Also, if you have no "
+"website, we provide a the duration of your subscription with us. A fully "
+"customized website for you from the management area and included discount "
+"coupon."
+
+# @ Web Cupón Admin
+msgid ""
+"<a href=\"http://comercial.webcupon.es\">Ver características completas del "
+"servicio</a>"
+msgstr ""
+"<a href=\"http://comercial.webcupon.es\"> View full service properties </ a>"
+
+# @ Web Cupón
+msgid "Cupón de Descuento"
+msgstr "Discount Coupon"
+
+# @ Web Cupón
+msgid "Nombre"
+msgstr "Name"
+
+# @ Web Cupón
+msgid "Apellidos"
+msgstr "Last Name"
+
+# @ Web Cupón
+msgid "Acepto"
+msgstr "Agree"
+
+# @ Web Cupón
+msgid "Acepto la política de privacidad"
+msgstr "I accept the Privacy Policy"
+
+# @ Web Cupón
+msgid ""
+"Sus datos no se almacenan en ningún soporte telemático. Más información en "
+"el Cupón."
+msgstr ""
+"Your data is not stored in any telematic support. More information on the "
+"Coupon."
+
+# @ Web Cupón
+msgid "Imprimir Ahora!"
+msgstr "Print Now!"
